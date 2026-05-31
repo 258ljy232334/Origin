@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Engine\\Origin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5513DC1-3878-4118-B5E6-CC5B8C87AA36}|Origin\\Origin.vcxproj|E:\\Engine\\Origin\\Origin\\src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5513DC1-3878-4118-B5E6-CC5B8C87AA36}|Origin\\Origin.vcxproj|solutionrelative:Origin\\src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Application.cpp",
+              "DocumentMoniker": "E:\\Engine\\Origin\\Origin\\src\\Application.cpp",
+              "RelativeDocumentMoniker": "Origin\\src\\Application.cpp",
+              "ToolTip": "E:\\Engine\\Origin\\Origin\\src\\Application.cpp",
+              "RelativeToolTip": "Origin\\src\\Application.cpp",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-30T08:24:49.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
